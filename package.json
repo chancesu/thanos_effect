@@ -1,0 +1,30 @@
+{
+  "name": "thanos_effect",
+  "version": "1.0.0",
+  "description": "thanos effect ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chancesu/thanos_effect.git"
+  },
+  "keywords": [
+    "thanos",
+    "javascript",
+    "canvas",
+    "front-end",
+    "web",
+    "effect"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chancesu/thanos_effect/issues"
+  },
+  "homepage": "https://github.com/chancesu/thanos_effect#readme",
+  "dependencies": {
+    "html2canvas": "^1.0.0-rc.1"
+  }
+}
